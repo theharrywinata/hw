@@ -1,2 +1,2 @@
-# hw
-My first repository on GItHub
+# HW
+My first repository on GitHub
